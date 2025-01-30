@@ -116,7 +116,7 @@ public class SpecimanBlueRight extends LinearOpMode {
 
 
 
-        //        goToPos(0, 16, Math.toRadians(0), 0.7, 1, 1, Math.toRadians(1), 2);
+//        goToPos(0, 16, Math.toRadians(0), 0.7, 1, 1, Math.toRadians(1), 2);
 //        goToPos(16, 16, Math.toRadians(90), 0.7, 1, 1, Math.toRadians(1), 2);
 //        goToPos(16, 16, Math.toRadians(-90), 0.7, 1, 1, Math.toRadians(1), 2);
 //
